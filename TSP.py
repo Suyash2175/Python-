@@ -1,3 +1,4 @@
+// assignment 1 optimization 
 import random
 from math import sqrt, exp
 import matplotlib.pyplot as plt
