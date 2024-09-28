@@ -1,4 +1,4 @@
-# Function to square a given number
+# Function to square a given number random code
 def square_number(n):
     return n * n
 
